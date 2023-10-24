@@ -39,8 +39,13 @@ plot_df |>
 ```
 
 
-#Here is a new section 
+# Here is a new section 
 
 Here is a recent picture of me and my boyfriend. 
 
 ![](images/ryan_grace.jpeg)
+
+# Other Stuff on this page 
+
+Definitely there is [plotly](plotly.html) stuff! 
+
